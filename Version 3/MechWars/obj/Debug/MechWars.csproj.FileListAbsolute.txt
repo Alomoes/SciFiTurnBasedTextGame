@@ -1,0 +1,6 @@
+E:\Desktop\MechWars\MechWars\bin\Debug\MechWars.exe.config
+E:\Desktop\MechWars\MechWars\bin\Debug\MechWars.exe
+E:\Desktop\MechWars\MechWars\bin\Debug\MechWars.pdb
+E:\Desktop\MechWars\MechWars\obj\Debug\MechWars.csprojResolveAssemblyReference.cache
+E:\Desktop\MechWars\MechWars\obj\Debug\MechWars.exe
+E:\Desktop\MechWars\MechWars\obj\Debug\MechWars.pdb

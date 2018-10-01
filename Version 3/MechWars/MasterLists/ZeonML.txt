@@ -1,0 +1,38 @@
+﻿//Master List
+//tc == tech level
+//All equipment in the master list appears as ordered.  
+//There might be a reverse key latter on.  
+tc = 0
+{
+
+Zaku I 
+
+}
+
+tc = 1
+{
+
+Zaku II
+
+}
+
+tc = 3
+{
+
+Gouf
+
+}
+
+tc = 4
+{
+
+Dom
+
+}
+
+tc = 5
+{
+
+Gelgoog
+
+}

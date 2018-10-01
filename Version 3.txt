@@ -1,0 +1,6 @@
+Add in an opponent to fight against.  
+	
+	Factory spawns in enemy AI.  
+	Player attacks the enemy.  
+	Attacking creates a chance of killing the enemy.  
+	Every factory creates 1 mecha per turn.  

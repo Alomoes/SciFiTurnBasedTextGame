@@ -1,0 +1,9 @@
+Player can intialize the game.  
+
+Player can build mechs with money. Add to variable mech and subtract variable money.  
+
+Player can gain money from mines.  
+
+Player can send mechs to find mines.  
+
+Player can incriment turns.  

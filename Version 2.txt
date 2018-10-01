@@ -1,0 +1,1 @@
+I'll create an AI opponent.  It controls 10 factories.  Each factory constructs 1 mech per turn.  Attacking the enemy has a chance of killing the factories and the mechs.  The enemy mechs have a chance of killing your mechs or your mines.  

@@ -1,0 +1,3 @@
+Factories now cost money to maintane.  
+Production is now mainly through factories.  
+The player now builds factories instead of directly building mechs.  

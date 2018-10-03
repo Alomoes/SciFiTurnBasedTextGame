@@ -1,0 +1,4 @@
+Is_Carrier //Sets carrier.  
+Ground //Sets AI ground use
+Space //Sets AI space use
+Sea //Sets AI sea use

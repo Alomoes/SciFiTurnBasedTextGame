@@ -1,0 +1,19 @@
+﻿//This is a template.  SORRY.  NOT IN USE YET.  
+
+
+Name = Tallgeese
+Type = Mobile Suit //Type is used for sorting in build mode.  
+
+
+	//Max Speed Ratings
+Mass = // For dash and flight calculations
+Thrust = // For dash and flight calculations
+Acceleration = //To manually set acceleration
+GroundSpeed = //Run speed on ground
+
+	//Size - Currently, create a cube of this size, and fill it with the object created.  Perhaps an SD form of Talgeese IDK.  
+
+Height = 
+Width = 
+Depth =
+

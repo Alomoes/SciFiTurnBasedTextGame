@@ -1,0 +1,12 @@
+AI uses mines and expands the economy like the player.  
+
+Original scenario expanded so the AI has 10 mines for the 10 factories.  
+
+New setting in load scenario to load in the AI.  
+
+	Passive AI
+The AI takes no risks.  
+
+So the AI calculates the amount of factories required to make money = 0
+
+It builds up to that amount and waits.  

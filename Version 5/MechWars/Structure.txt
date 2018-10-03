@@ -1,0 +1,9 @@
+How I want it structured is that.  
+
+Pick faction type 
+	List all files with ML
+	Make it so each ML has a button to press that activates it. 
+	After picking the ML, it loads in all the correct files for each equipment .txt listed in the file.   
+
+Once faction type is picked, allow the player to choose the enemy in the same manner.  
+	There are two exceptions, the player can pick any enemy.  
